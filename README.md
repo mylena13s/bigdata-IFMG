@@ -1,22 +1,16 @@
-# Big Data and Data Mining
+# Big Data e Mineração de Dados (Curso extracurricular - IFMG)
 
-`Teacher: Marcos Roberto Ribeiro`
+Professor: Marcos Roberto Ribeiro
 
-### Course Overview
-1. Introduction to Big Data and Data Mining
-2. Languages, Libraries, and Tools 
-   - Python
-     - Pandas
-     - NumPy
-   - Other relevant tools
-     - Linked List
-     - Array
-3. Data Preparation
-4. Basic Classifiers
-5. Data Clustering
+[Vídeo do Curso no Youtube](https://www.youtube.com/watch?v=lFAf-9ptp1Q&list=PLRvPPLj_hojhTiGpR-dA_j0Q0P41S__AG&index=1)
 
-<p align="left">
-  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif" alt="Additional image" width="150" />
-</p>
+Conteúdo do Curso:
+
+1. Introdução ao Big Data e Mineração de Dados
+2. Linguagens, Bibliotecas e Ferramentas (Python, Pandas, NumPy, Lista Encadeada, Array)
+3. Preparação de Dados
+4. Classificadores Básicos
+5. Agrupamento de Dados
+
 
 
